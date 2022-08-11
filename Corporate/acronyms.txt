@@ -1,4 +1,24 @@
 PIIA: Proprietary Information and Invention Agreement
-NDA: NOn-Disclosure Agreement
+NDA: Non-Disclosure Agreement
 IIPP: Injury and Illness Prevention Program
 CPAAM: Complaint Procedures for Accounting and Auditing Matters
+
+20220808:
+VPMOM: Vision Principles Methods Obstacles Metrics
+ERGs: Employee Resource Groups
+SMEs: Sunject Matter Experts
+
+20220809:
+PL: Platform
+AB,CM: Address Book, Contact Manager
+BC: Billing Center
+CC: Claim Center
+PC: Policy Center
+IS: InsuranceSuite
+
+20220810:
+GPM: Guidewire Package Manager
+PTT: Platform Testing Team
+PT: Platform Testing
+GA: General Availability
+ND: Non-Deterministic

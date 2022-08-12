@@ -22,3 +22,8 @@ PTT: Platform Testing Team
 PT: Platform Testing
 GA: General Availability
 ND: Non-Deterministic
+
+20220812:
+GWCP: Guidewire Cloud Platform
+PMO: Production Management Organization
+GDP: Guidewire Data Platform

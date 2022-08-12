@@ -27,3 +27,4 @@ ND: Non-Deterministic
 GWCP: Guidewire Cloud Platform
 PMO: Production Management Organization
 GDP: Guidewire Data Platform
+PDLM: Product Development Lifecycle Management

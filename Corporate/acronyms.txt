@@ -31,3 +31,11 @@ PDLM: Product Development Lifecycle Management
 
 20220815:
 TH: ToolsHarness https://th.guidewire.com/
+
+20220816: Cybersecurity 
+PII: Personally Identifiable Information
+SIRT: Security Incident Response Team
+CSM: Customer Success Manager
+CAM: Customer Account Manager
+FR: First Responder
+PIR: Post Incident Review

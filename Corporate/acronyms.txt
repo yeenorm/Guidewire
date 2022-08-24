@@ -41,3 +41,7 @@ FR: First Responder
 PIR: Post Incident Review
 
 UAT: User Acceptance Testing
+
+22020824:
+CCS: Cloud Common Services
+CRP: Cloud Release Pipeline

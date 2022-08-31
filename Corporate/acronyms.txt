@@ -53,3 +53,4 @@ MR: Maintenance Release
 TDC: Toronto Development Center
 KDC: Krakow Development Center
 JRDC: Japan Research Development Center
+GCC: Guidewire Cloud Console

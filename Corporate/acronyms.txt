@@ -17,7 +17,7 @@ PC: Policy Center
 IS: InsuranceSuite
 
 20220810:
-GPM: Guidewire Package Manager
+GPM: Guidewire Package Manager https://gpm.guidewire.com/
 PTT: Platform Testing Team
 PT: Platform Testing
 GA: General Availability
@@ -45,3 +45,11 @@ UAT: User Acceptance Testing
 22020824:
 CCS: Cloud Common Services
 CRP: Cloud Release Pipeline
+
+20220831:
+CBC: Cloud Base Configurations
+RC: Release Candidate
+MR: Maintenance Release
+TDC: Toronto Development Center
+KDC: Krakow Development Center
+JRDC: Japan Research Development Center

@@ -1,3 +1,11 @@
+Most frequently used:
+GPM: Guidewire Package Manager https://gpm.guidewire.com/
+GWCP: Guidewire Cloud Platform
+CCS: Cloud Common Services
+CRP: Cloud Release Pipeline
+CBC: Cloud Base Configurations
+GCC: Guidewire Cloud Console
+
 PIIA: Proprietary Information and Invention Agreement
 NDA: Non-Disclosure Agreement
 IIPP: Injury and Illness Prevention Program

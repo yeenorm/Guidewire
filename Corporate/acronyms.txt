@@ -47,7 +47,6 @@ CSM: Customer Success Manager
 CAM: Customer Account Manager
 FR: First Responder
 PIR: Post Incident Review
-
 UAT: User Acceptance Testing
 
 22020824:
@@ -62,3 +61,7 @@ TDC: Toronto Development Center
 KDC: Krakow Development Center
 JRDC: Japan Research Development Center
 GCC: Guidewire Cloud Console
+
+20220914:
+PAL: Portfolio Assembly Line
+SAST: Static Application Security Testing

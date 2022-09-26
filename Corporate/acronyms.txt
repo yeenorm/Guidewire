@@ -65,3 +65,7 @@ GCC: Guidewire Cloud Console
 20220914:
 PAL: Portfolio Assembly Line
 SAST: Static Application Security Testing
+
+20220926:
+POC: Proof of Concept
+NBC: No Breaking Changes

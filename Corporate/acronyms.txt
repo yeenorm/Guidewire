@@ -72,3 +72,6 @@ NBC: No Breaking Changes
 
 20220929:
 EKS: Elastic Kubernetes Services
+
+20221111:
+APD: Advanced Product Designer

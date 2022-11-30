@@ -78,3 +78,4 @@ APD: Advanced Product Designer
 20221130: Checkmarx
 SAST: Static Application Security Testing
 OSA: Open Source Analysis
+CVE: Common Vulnerabilities and Exposures

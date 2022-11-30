@@ -64,7 +64,6 @@ GCC: Guidewire Cloud Console
 
 20220914:
 PAL: Portfolio Assembly Line
-SAST: Static Application Security Testing
 
 20220926:
 POC: Proof of Concept
@@ -75,3 +74,7 @@ EKS: Elastic Kubernetes Services
 
 20221111:
 APD: Advanced Product Designer
+
+20221130: Checkmarx
+SAST: Static Application Security Testing
+OSA: Open Source Analysis

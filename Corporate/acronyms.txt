@@ -79,3 +79,9 @@ APD: Advanced Product Designer
 SAST: Static Application Security Testing
 OSA: Open Source Analysis
 CVE: Common Vulnerabilities and Exposures
+
+20221207: CNB
+CNB: Cloud Native Buildpack
+OCI: Open Container Initiative https://opencontainers.org
+BOM: Bill Of Materials
+ECR: Amazon's Elastic Container Registry – where we store Docker containers for shared use within GWRC & Cloud customers

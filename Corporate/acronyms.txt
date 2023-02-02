@@ -85,3 +85,6 @@ CNB: Cloud Native Buildpack
 OCI: Open Container Initiative https://opencontainers.org
 BOM: Bill Of Materials
 ECR: Amazon's Elastic Container Registry – where we store Docker containers for shared use within GWRC & Cloud customers
+
+20230202: SBT
+SBT: Standards Based Template

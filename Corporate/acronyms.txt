@@ -88,3 +88,6 @@ ECR: Amazon's Elastic Container Registry – where we store Docker containers fo
 
 20230202: SBT
 SBT: Standards Based Template
+
+20230208: SFDR
+SFDR: Salesforce Dev Request
